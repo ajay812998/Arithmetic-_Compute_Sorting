@@ -9,3 +9,5 @@ read -p "Enter third input: " c
 echo "$(((a+b)*c))"
 
 echo "$(((a*b)+c))"
+
+echo "$(((c+a)/b))"
